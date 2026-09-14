@@ -1,0 +1,1 @@
+https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/main/01-intro/02-ml-vs-rules.md
