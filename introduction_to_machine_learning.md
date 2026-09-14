@@ -10,4 +10,8 @@
   - e.g. if car is old/mileage -- cheaper
 - ![image](.attachments/e28138822a8cb32d53ba47c78487f5c45e4d6e79.png)
 - ![image](.attachments/a596cac37befbf07625487a4a70c114c614ad2ff.png)
-- ![image](.attachments/60b0074bcd3187cbf7fae6177be27d3c45b5c90d.png) 
+- ![image](.attachments/60b0074bcd3187cbf7fae6177be27d3c45b5c90d.png)
+
+![image](.attachments/e53d663d0b1a6fe0b6e6fef23f906cac99bdad32.png) 
+
+![image](.attachments/4c292bf06192eeef9bb9a83e4f8104e4358668fe.png) 
