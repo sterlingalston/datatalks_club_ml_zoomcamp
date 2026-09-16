@@ -17,3 +17,4 @@ https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/main/01-intro/03
     - score from 0 - 1 --> returns top x item
     - google does something similar for search results
   - teaching algorithm with different examples
+  - ![image](.attachments/f3427d43e418a63bacecd333b49de9521071b29b.png) 
