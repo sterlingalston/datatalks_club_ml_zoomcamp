@@ -1,1 +1,4 @@
 https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/main/01-intro/03-supervised-ml.md
+
+- car price prediction
+- spam prediction
