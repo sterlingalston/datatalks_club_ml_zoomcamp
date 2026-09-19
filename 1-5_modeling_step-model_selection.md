@@ -15,4 +15,8 @@ https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/main/01-intro/05
   - one model just gets lucky and produces better result
   - probablistic
 - hold out 2 datasets for validation and testing
-- ![image](.attachments/0c942e215e9102ca060bf1b3ae828c95e0ac80ed.png) 
+- ![image](.attachments/0c942e215e9102ca060bf1b3ae828c95e0ac80ed.png)
+- ![image](.attachments/d9b93cacdeb0f68562c953ccc714716bdcdee164.png)
+- extra validation test data set
+- ![image](.attachments/8e816035acd9603ce4606036695ee48d56ad49d0.png)
+- 
