@@ -9,4 +9,10 @@ https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/main/01-intro/05
 - LR = linear regresssion, DT = decision tree, RT = random tree, NN = neural network
 - ![image](.attachments/5af08077921e7144ec7587aee948f23bd168b237.png)
 - models can sometimes just get lucky
-- 
+- problem with multiple comparison
+- ![image](.attachments/e307ad1cdf5f76e5f14e0df0f40e8d5f8fcaab79.png)
+- when perform same comparison many times, and eval against same dataset
+  - one model just gets lucky and produces better result
+  - probablistic
+- hold out 2 datasets for validation and testing
+- ![image](.attachments/0c942e215e9102ca060bf1b3ae828c95e0ac80ed.png) 
