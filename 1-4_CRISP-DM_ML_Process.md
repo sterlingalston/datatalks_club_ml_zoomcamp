@@ -1,3 +1,5 @@
 - CRISP-DM (Cross-Industry Standard Process for Data Mining)
 - ![image](.attachments/0625330f5a6a9549935d97f624d2e40f811e3d6b.png)
-- 
+- ![image](.attachments/b04fab433151a9b8f6fe7bc9a6037870ecf2da42.png)
+- ![image](.attachments/2277889f250a1d2ffcc2780c9056f3fcce733656.png)
+- ![image](.attachments/0254bf90ac198ed6fdeae2e5fea1fba734887e21.png) 
