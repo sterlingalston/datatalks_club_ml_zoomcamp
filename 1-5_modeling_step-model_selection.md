@@ -20,4 +20,5 @@ https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/main/01-intro/05
 - extra validation test data set
 - ![image](.attachments/8e816035acd9603ce4606036695ee48d56ad49d0.png)
 - ![image](.attachments/2bbc79df5543b770dbb078db10fb13e332ecf702.png)
-- ![image](.attachments/a869e2bb6e5fa1729715e6271e10671178d5577d.png) 
+- ![image](.attachments/a869e2bb6e5fa1729715e6271e10671178d5577d.png)
+- ![image](.attachments/4cd0d2972f5fe11d70f1734119f2adfd05e82041.png) 
