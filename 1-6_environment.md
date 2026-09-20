@@ -1,0 +1,3 @@
+- https://symmetrical-yodel-wr7wvgrj4wh9rgq.github.dev/
+- codespaces
+- https://github.com/sterlingalston/machine-learning-zoomcamp-homework
