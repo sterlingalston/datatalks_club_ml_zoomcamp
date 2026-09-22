@@ -8,3 +8,11 @@
 ![image](.attachments/84200169a477b2993d218c7120907d1979817de0.png) 
 ![image](.attachments/b695e545031b92de051acd82f339214357f2c965.png) 
 ![image](.attachments/017a828dd26ab92c6283a9c4e30841e9c73a7c5f.png) 
+![image](.attachments/e15abbb7ce76ddbfefa47e4d3e5aaf07d9b40452.png) 
+- random normal distribution
+![image](.attachments/6ffba7203629344c97380c8566465662fd8b75d0.png)
+- multiply each element by 100
+![image](.attachments/336e15018a8b1e7c66d2b8551196ecd6bb0afad5.png)
+![image](.attachments/b0f4afc16ebb39dcfca79def0a13a534cf72fe66.png)
+![image](.attachments/e7fe2f3c2b1aff3e993ba62a49cf6a0f1c4d363a.png)
+![image](.attachments/dfc637eaf5e33b213667fc8ac309273959cf0f1e.png) 
