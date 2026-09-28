@@ -1,4 +1,6 @@
 - https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/main/01-intro/09-pandas.md
 - ![image](.attachments/71dd5cb0bb8bfe0fe18ad4bdbd82dd90cf8e6288.png)
 - ![image](.attachments/f14a9cccf9ebcba96e26ec4bd0f09ec34e09bb45.png)
-- 
+- ![image](.attachments/cca1ad06a5386b9d80bff94a68bb0843b782db66.png)
+- ![image](.attachments/dbff64b37dc99bc34ccb30df0d685b00143a02cf.png)
+- ![image](.attachments/d1e47d764e7d6b81a3007e8e21b4aa06f7c047cb.png) 
