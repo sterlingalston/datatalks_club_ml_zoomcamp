@@ -23,4 +23,11 @@
 - string operators -- numpy does not have
 - ![image](.attachments/573073c12b641eb89a3ada1bec4bc875b9abfe4e.png)
 - ![image](.attachments/14f2217ca0181f8394315d58990e6c88df83741c.png)
-- ![image](.attachments/5e669280f4a84e7d4f89b1886845f5689af6bbde.png) 
+- ![image](.attachments/5e669280f4a84e7d4f89b1886845f5689af6bbde.png)
+- ![image](.attachments/07fe709ffbbd03cf954c81bcc397d735a7f9ff7d.png)
+- ![image](.attachments/78c6408aef028b56078215a0c46c8cbd5fea877b.png)
+- ![image](.attachments/7b3e077e95e4b89253c2c11a7782074b0a885f5d.png)
+- ![image](.attachments/2700ba52c96db6da92ed4555f96b5cd085a65f2d.png)
+- number of unique values
+- ![image](.attachments/2d4d05a7158d1c4779f74a89f88767ff65695f33.png)
+- 
