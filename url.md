@@ -8,6 +8,10 @@ https://github.com/DataTalksClub/machine-learning-zoomcamp/blob/main/01-intro/04
 
 https://www.noteshub.app/notebooks/github/sterlingalston%2Fdatatalks_club_ml_zoomcamp/%2F/introduction_to_machine_learning.md
 
-Homework repo:
+My homework repo:
 
 https://github.com/sterlingalston/machine-learning-zoomcamp-homework
+
+Assignments:
+
+https://github.com/DataTalksClub/machine-learning-zoomcamp/tree/main/cohorts/2026
