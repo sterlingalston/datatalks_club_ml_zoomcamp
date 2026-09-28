@@ -13,4 +13,7 @@
 - looking strictly based upon position
 - ![image](.attachments/202b6ba6406b3bf2517aa4cea245252586bf2378.png)
 - `reset_index()` gets index back to sequential
-- ![image](.attachments/2d855606b2a210df966350231b1b638a805796ab.png) 
+- ![image](.attachments/2d855606b2a210df966350231b1b638a805796ab.png)
+- adding drop=True drops the index you made
+- ![image](.attachments/88d0c8eb2ecfafc377467f9d569fcbbe00a5f201.png)
+- ![image](.attachments/fe1a3f0be4a62e15d44d2cd0ba2c62705137ef5d.png) 
