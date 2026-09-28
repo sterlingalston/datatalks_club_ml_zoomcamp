@@ -30,4 +30,6 @@
 - ![image](.attachments/2700ba52c96db6da92ed4555f96b5cd085a65f2d.png)
 - number of unique values
 - ![image](.attachments/2d4d05a7158d1c4779f74a89f88767ff65695f33.png)
+- ![image](.attachments/ee922b41780f5d09bad3072c8ef11549489e2420.png)
+- ![image](.attachments/867de757492e3e23c8cace0f2a3ba920655131f3.png)
 - 
