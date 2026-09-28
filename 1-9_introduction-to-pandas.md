@@ -6,4 +6,11 @@
 - ![image](.attachments/d1e47d764e7d6b81a3007e8e21b4aa06f7c047cb.png)
 - ![image](.attachments/6ab397181b95cc0036473615b8e25dca31633472.png)
 - ![image](.attachments/eb71f45fcd1c0b630e82527624c6ec2819f86407.png) 
-- 
+- ![image](.attachments/ffae54d35b4078450dec0bb4d598c12d0ae4fbeb.png)
+- ![image](.attachments/20de127302e6f02651d358ecd53718c166bc1b8a.png)
+- switching indexes out
+- ![image](.attachments/6515b5a955a8e00e218d8fde5a6d2921bcf5285e.png)
+- looking strictly based upon position
+- ![image](.attachments/202b6ba6406b3bf2517aa4cea245252586bf2378.png)
+- `reset_index()` gets index back to sequential
+- ![image](.attachments/2d855606b2a210df966350231b1b638a805796ab.png) 
