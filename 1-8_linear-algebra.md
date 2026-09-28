@@ -24,4 +24,62 @@ https://www.youtube.com/watch?v=zZyKUeOR4Gg&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHa
 - ![image](.attachments/7cf5f5242f62226f75222a75b6e888fa895cad57.png)
 - ![image](.attachments/4d835fdba51e382b40d8178682adde8eb261029d.png)
 - ![image](.attachments/d5de19e9781fc6f90ca753f297ab0d1206e23b8b.png)
-- 
+- ![image](.attachments/3cdd3ed7618517abd9645ac71eea62a18e0eab5f.png)
+- Python
+
+```
+import numpy as np
+
+# Matrix A: 3 rows, 4 columns
+A = np.ones((3, 4))
+# Vector v: 4 rows (4x1)
+v = np.ones((4, 1))
+
+# Matrix-vector product
+res = np.matmul(A, v)
+
+print("A shape:", A.shape)
+print("v shape:", v.shape)
+print("Result shape:", res.shape)
+
+```
+
+Code output
+
+```
+A shape: (3, 4)
+v shape: (4, 1)
+Result shape: (3, 1)
+
+```
+
+Matrix multiplication dimensions follow the standard rule:
+
+  
+
+$$(m \times n) \cdot (n \times p) = (m \times p)$$
+
+For this operation:
+
+  
+
+-   Matrix dimensions: $3 \times 4$ ($3 \text{ rows} \times 4 \text{ columns}$)
+    
+      
+    
+-   Column vector dimensions: $4 \times 1$ ($4 \text{ rows} \times 1 \text{ column}$)
+    
+      
+    
+
+Since the inner dimensions match ($4 = 4$), the multiplication is valid, and the result is defined by the outer dimensions:
+
+  
+
+$$(3 \times 4) \cdot (4 \times 1) = 3 \times 1$$
+
+Multiplying a $3 \times 4$ matrix by a $4 \times 1$ vector indeed yields a vector of **3 rows**.
+
+- inverse -- only squar matrices have inverses
+- ![image](.attachments/6be160e0d2a7cacb7aa12ab88a4b86bd4fc57e82.png) 
+- useful for linear regression!
