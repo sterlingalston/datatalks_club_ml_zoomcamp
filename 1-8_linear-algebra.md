@@ -16,5 +16,5 @@ https://www.youtube.com/watch?v=zZyKUeOR4Gg&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHa
 - ![image](.attachments/0940c0b7d8e2b358c71a820dbe06c3c94b4e2e64.png)
   - returns a vector with dot product in each row; same number of rows as the matrix
 - ![image](.attachments/2b560f57c8342db9c758cf41e575ff6885b9c7e9.png)
-- ![image](.attachments/2de70a466708073a336b6609e47b55bacdd25ebd.png)
+- ![image](.attachments/af604decf586c59540bf4cea58f1dc944c9f95ad.png)
 - 
