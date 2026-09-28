@@ -19,4 +19,8 @@
 - ![image](.attachments/fe1a3f0be4a62e15d44d2cd0ba2c62705137ef5d.png)
 - ![image](.attachments/a731fae18e6bdfb91356f7bfbb83cb7b0298a9e8.png)
 - ![image](.attachments/73b31e374d05cd63059d396f86642357d1be5918.png)
-- ![image](.attachments/14d30df697c2dd8352133da351e49b5045e81b08.png) 
+- ![image](.attachments/14d30df697c2dd8352133da351e49b5045e81b08.png)
+- string operators -- numpy does not have
+- ![image](.attachments/573073c12b641eb89a3ada1bec4bc875b9abfe4e.png)
+- ![image](.attachments/14f2217ca0181f8394315d58990e6c88df83741c.png)
+- ![image](.attachments/5e669280f4a84e7d4f89b1886845f5689af6bbde.png) 
