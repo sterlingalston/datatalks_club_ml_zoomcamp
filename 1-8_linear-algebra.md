@@ -19,4 +19,6 @@ https://www.youtube.com/watch?v=zZyKUeOR4Gg&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHa
 - ![image](.attachments/af604decf586c59540bf4cea58f1dc944c9f95ad.png)
 - ![image](.attachments/c57379c43d3d1610aa627cdbbcd8dabf7c7e2d7e.png)
 - ![image](.attachments/418e9111563878e4161cf800c9bb0eef5f0cd479.png)
-- ![image](.attachments/90812d871dd21824b594ffb6a9556edc149df7b4.png) 
+- ![image](.attachments/90812d871dd21824b594ffb6a9556edc149df7b4.png)
+- identity matrix
+- ![image](.attachments/0acf123375768c0d088d4963570af2737742852d.png) 
