@@ -12,4 +12,7 @@ https://www.youtube.com/watch?v=zZyKUeOR4Gg&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHa
 - ![image](.attachments/ef82b1f55a8403c261367df2aa2d715cec26182a.png)
 - matrix-vector -- you take each row in the matrix and multiply by the other vector
   - basically vector vector multiplication (dot-product)
-- ![image](.attachments/99b13338e4a2c08278cd88527d9a85510f206100.png) 
+- ![image](.attachments/99b13338e4a2c08278cd88527d9a85510f206100.png)
+- ![image](.attachments/0940c0b7d8e2b358c71a820dbe06c3c94b4e2e64.png)
+  - returns a vector with dot product in each row; same number of rows as the matrix
+- 
