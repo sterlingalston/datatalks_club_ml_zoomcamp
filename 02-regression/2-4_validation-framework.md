@@ -9,4 +9,6 @@
 - ![image](.attachments/b1cb116d355b0b99d0886862ec6fbc9f59cb2a7d.png)
 - ![image](.attachments/d67b753590ef02050f2c799c2fda1eeb4f8251c3.png)
 - ![image](.attachments/22ecf427bb5173603de5bbd25f6a40c25206750b.png)
+- ![image](02-regression/.attachments/df25ab444e0ab6115a26e0f9938b1760853fa1de.png)
+- ![image](.attachments/733669275e048678c9286618d3bd33d2b419bfc7.png)
 - 
