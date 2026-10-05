@@ -27,4 +27,4 @@
 - ![image](.attachments/5db6bbb7e12a2de079b7a3806ec38416da7ba3f9.png)
 - ![image](.attachments/22159abc2df86b020635395d3af0055302d2577e.png)
 - 0.5 improvement!
-- 
+- now need to find best value for _r_
