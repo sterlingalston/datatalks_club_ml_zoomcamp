@@ -7,4 +7,6 @@
 - ![image](.attachments/ba84d7188581bedf62b0baa337a6fc7f9654c004.png)
 - ![image](.attachments/6060dcc8e72d05b8c20d546f01bb1e40279dd939.png)
 - ![image](.attachments/1bb153a6fe22e101411361b96394f2af38c3f05e.png)
-- ![image](.attachments/6c7155f488a7a3a78eb52a4f77c3b4fa7cca3069.png) 
+- ![image](.attachments/6c7155f488a7a3a78eb52a4f77c3b4fa7cca3069.png)
+- ![image](.attachments/82e03cc2eef88bc04928fd4f74243c501d0953b9.png)
+- very small improvement after adding doors
