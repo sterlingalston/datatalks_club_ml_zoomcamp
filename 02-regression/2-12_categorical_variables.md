@@ -22,4 +22,5 @@
 - ![image](.attachments/8a49fa45558874fce3dbf343dd3984ffc31718bd.png)
 - essentially just adding more categorical variables
 - ![image](.attachments/a706bfd69ba581640c92a1745ebf00bd2193711a.png)
-- 
+- after adding more categorical variables, something wrong with rmse!!!
+- ![image](.attachments/c5abcb69e9bc5fac2c9428024ea94448dd3a77cd.png) 
