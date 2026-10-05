@@ -10,3 +10,10 @@
 - ![image](.attachments/6c7155f488a7a3a78eb52a4f77c3b4fa7cca3069.png)
 - ![image](.attachments/82e03cc2eef88bc04928fd4f74243c501d0953b9.png)
 - very small improvement after adding doors
+- find most popular makes of the cars
+- ![image](.attachments/cceefb7d747b5821051021a511e3a0fd4333e24f.png)
+- ![image](.attachments/66f7962400c737f4794fca0cf7cc8f7cbb0fa503.png)
+- ![image](.attachments/615e57cb6540a75b2f4ed69a2eada0830ad40a33.png)
+- ![image](.attachments/df788bc2022c7be5fe90c0951f69e3d13ea6b5c9.png)
+- five new columns, one for each make
+- 
