@@ -16,4 +16,10 @@
 - ![image](.attachments/615e57cb6540a75b2f4ed69a2eada0830ad40a33.png)
 - ![image](.attachments/df788bc2022c7be5fe90c0951f69e3d13ea6b5c9.png)
 - five new columns, one for each make
+- ![image](.attachments/cf011802a7abe2929ebe8c38b8c0c2290900dc1a.png)
+- slight improvement when adding make
+- ![image](.attachments/c2f825aa833b6a4b93b9e7f4df3f861d50aaff59.png) 
+- ![image](.attachments/8a49fa45558874fce3dbf343dd3984ffc31718bd.png)
+- essentially just adding more categorical variables
+- ![image](.attachments/a706bfd69ba581640c92a1745ebf00bd2193711a.png)
 - 
