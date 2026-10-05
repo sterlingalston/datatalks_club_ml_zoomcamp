@@ -1,0 +1,15 @@
+![image](.attachments/48c6a63ab015ac22a2740b9c88070e95f030ae21.png) 
+- sometimes inverse of Gram matrix doesn't exist
+- ![image](.attachments/b002c252a6da79dbb3b6f2c2aea7426d17e4f4e8.png)
+- ![image](.attachments/1d379852b8bdde6095278a1f768330f9654a0717.png)
+- ![image](.attachments/25844553cb9c27903efa807f01a5c3aead666396.png)
+- sometimes inverse doesn't exist
+- ![image](.attachments/e596fe6b23f7047d14689a3525152b829a8d248c.png)
+- no errors in this problem
+- but adding something slightly different
+- ![image](.attachments/b88cfe457b951e512b02eaf214b0a2c2d4f34861.png)
+- so now matrix is invertable
+- ![image](.attachments/d430f8b2139527060be1849f38d5eb9b60ab0889.png)
+- ![image](.attachments/55bd53394ccaac4fadc8c0f404abf6616f802dc8.png)
+- ![image](.attachments/ab64fc40cbfe66215f2d75e63f0e05cdeb3b304a.png)
+- 
