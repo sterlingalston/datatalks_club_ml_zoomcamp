@@ -12,4 +12,19 @@
 - ![image](.attachments/d430f8b2139527060be1849f38d5eb9b60ab0889.png)
 - ![image](.attachments/55bd53394ccaac4fadc8c0f404abf6616f802dc8.png)
 - ![image](.attachments/ab64fc40cbfe66215f2d75e63f0e05cdeb3b304a.png)
+- ![image](.attachments/29822328c13c514a1930666b464f6d5b1b553583.png)
+- ![image](.attachments/c1ac6406f3492b2bd5caefc761829e185e461193.png)
+- adding small number
+- ![image](.attachments/37ed079ea53c763b4404d5510f9aeb0894a2d29e.png)
+- fix problem by adding small number to diagonal
+- ![image](.attachments/06fddd15ce14faf9526551366782690375e8c719.png)
+- adding small number to diagonal makes certain column 3 doesn't duplicate column 2
+- ![image](.attachments/d32d0b4fd5966c21b4078bf2e397566248195d49.png)
+- ![image](.attachments/c86bdc0ad3e3c0c0a10d1d04a51efd7ac4eedebe.png)
+- this is called _regularization_
+- ![image](.attachments/33174ad00c1f1435a034433c4630adf8d1209f0b.png)
+- ![image](.attachments/9b71168bd5044df1e379a61c3f99542d17c00fc8.png)
+- ![image](.attachments/5db6bbb7e12a2de079b7a3806ec38416da7ba3f9.png)
+- ![image](.attachments/22159abc2df86b020635395d3af0055302d2577e.png)
+- 0.5 improvement!
 - 
