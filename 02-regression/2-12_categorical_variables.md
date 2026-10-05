@@ -1,0 +1,9 @@
+- typically strings (e.g. make and model)
+- ![image](.attachments/e376b79bc35d8a2a1cf6647fd031233b3e7118b8.png)
+- number of doors is categorical variable even though it's numeric
+- ![image](.attachments/64ae2be4d492284f04a7b0a90ae945705a100770.png)
+- ![image](.attachments/5fc365883cf3e3e773005fd00eb2cfc19f537671.png)
+- add binary variable for each category
+- ![image](.attachments/ba84d7188581bedf62b0baa337a6fc7f9654c004.png)
+- ![image](.attachments/6060dcc8e72d05b8c20d546f01bb1e40279dd939.png)
+- ![image](.attachments/1bb153a6fe22e101411361b96394f2af38c3f05e.png) 
