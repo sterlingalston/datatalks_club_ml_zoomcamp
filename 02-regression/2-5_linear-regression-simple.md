@@ -7,4 +7,12 @@
 - ![image](.attachments/9136744c72e965d2e38390084059c7cdb0aa4556.png)
 - ![image](.attachments/6aa2d65d2705e9854de8a0015ec15c859ebda975.png)
 - ![image](.attachments/22074ed19068d647a3c1c1c73c1afecca70e46bc.png)
-- ![image](.attachments/56ff1200e5227961ebcec4f51637c0bc1df9eebc.png) 
+- ![image](.attachments/56ff1200e5227961ebcec4f51637c0bc1df9eebc.png)
+- ![image](.attachments/e0b5fe0a8385fa2a29af09538d77455a67cdda04.png)
+- `[hp,mpg,pop.]`
+- ![image](.attachments/2f6047abe5654970367fa958dcae3b3707210983.png)
+- ![image](.attachments/6f0185bb85f6e5e674352634505adc6f86d954b9.png)
+- ![image](.attachments/e6aa7db16c915c088ba74faaf546e363fcd92a37.png)
+- In mathematics, `np.exp(12.312)` represents the exponential function **\(e^{12.312}\)**, where **\(e\)** is Euler's number (approximately 2.71828).
+- ![image](.attachments/3551585af2a85d74c83bcbed3938f9ce8e28be0c.png)
+- 
