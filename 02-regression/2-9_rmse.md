@@ -1,0 +1,7 @@
+- we will now quantify the accuracy of the model
+- ![image](.attachments/9429b9ee94d8233ac14b92a4ac3bd8fec241e7a6.png)
+- ![image](.attachments/d201b26af166d1430d9e55f39b1b7ad8a72a2c52.png)
+- ![image](.attachments/d355bdd9768f8639f9f0e47d96c165873e7ecc12.png)
+- ![image](.attachments/2ff869de44a29773e7e5ee6d5082ae4df0937dd3.png)
+- ![image](.attachments/9284cafd7dc451cdc7a14c72fdcc4398bcd9a6e3.png)
+- ![image](.attachments/4ee44b8f52b9c5138befd086c1cd55c9fb4db848.png) 
