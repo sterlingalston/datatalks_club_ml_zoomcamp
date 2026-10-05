@@ -9,4 +9,9 @@
 - ![image](.attachments/50a532008d25f5410cce8e2d7b60bd6641311df6.png)
 - ![image](.attachments/76eb6394a85b350e0598fed3722e658ab91db18b.png)
 - ![image](.attachments/f685553f7cbf046f159953bcee8a658f6777b935.png)
-- 
+- ![image](.attachments/0f4d970fe226560e209b18576a6abfb7a0ac5244.png)
+- ![image](.attachments/ed468d31d923d0f0fb5402043dae605849540df0.png)
+- ![image](.attachments/336c4dc7255e0961e6fd8d976de1689f4c11c931.png)
+- each car is represented by 'x(1,2,10)'
+- ![image](.attachments/15aa714ca43ff0fa6092b6bb58af50955ae9d70f.png)
+- we will now find out how to do `w_new`
