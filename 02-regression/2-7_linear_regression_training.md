@@ -1,6 +1,7 @@
 - ![image](.attachments/e2e77afd1188e2699ed5aef86b1bf7c13ae2e425.png)
 - ![image](.attachments/62722795122193ef7f487a412cf9cbd528bddc19.png)
 - ![image](.attachments/bd3e6d9e99fda18d602eee516728529dae829357.png)
+- ![image](.attachments/a6770db040c3a956b27d5143b1694d4d572a8e54.png) 
 - ![image](.attachments/4bcbd1110825df0a034539ab9f155dd1b0f811fa.png)
 - ![image](.attachments/76661c876b4e83963916cf84d31985d4b404263c.png)
 - closest possible solution to the system
