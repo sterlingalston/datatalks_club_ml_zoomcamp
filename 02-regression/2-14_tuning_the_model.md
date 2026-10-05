@@ -43,3 +43,6 @@ $$e^{0.4608} - 1 \approx 1.585 - 1 = 0.585 \text{ or } \mathbf{\approx 58.5\%}$$
       
     
 3.  Evaluate whether to select $r = 0.0001$ or $r = 0.001$ as the optimal regularization parameter based on performance stability across validation splits.
+
+- just select best regularization parameter
+- ![image](.attachments/e3ec0ef81da60c77649e4f799be780d2845a93e4.png) 
