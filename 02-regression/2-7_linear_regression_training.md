@@ -7,4 +7,18 @@
 - there's proof for this
 - `Elements of Statistical Learning`
 - ![image](.attachments/8435bbf14d22512da5d8744ad669efbe117a5799.png)
-- 
+- ![image](.attachments/b0b9ae3b9a4a1117d2c1906c69432b5333c2f96a.png)
+- Gram matrix is XTX in this
+- ![image](.attachments/c6a4ba3d906b3f71090b0d76001a63890ff40d51.png)
+- ![image](.attachments/3dd82be5f269a930161092942ae1f200696c6154.png)
+- ![image](.attachments/1b00ba5b0adfb21705e4019d933f236d6288266e.png)
+- we trained the model, but didn't train the biased term
+- biased term gives us the baseline
+- ![image](.attachments/9438cf28607f133726e6371b2de97aec2102ee74.png)
+- ![image](.attachments/85fd4059162588cfa62240904462188e6dd7d236.png)
+- column_stack -- add ones matrix to each vector in X
+- ![image](.attachments/803bcd4aa7be5432b90c92b00304d40e94c32c8a.png)
+- ![image](.attachments/3aa0db428ba40e831f59f79b766dc4d14dfc5d18.png)
+- ![image](.attachments/75898ccfd04551ac877b2fae50711795b1afdeda.png)
+- ![image](.attachments/ca230913ab62f56409d7d643797e607ee7554cce.png)
+- ![image](.attachments/7f41ecc35cb462915da535eed681eec60f34d17a.png) 
