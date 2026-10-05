@@ -1,2 +1,6 @@
 - output of model is a number
-- 
+- ![image](.attachments/c6bb040b4c4ca1f5b827fd34c1637665871b4ea3.png) 
+- ![image](.attachments/2602974b7dfbcea6f1a894a703e98e4230e24516.png)
+- ![image](.attachments/7518c73fb740992a209f3680aaf4678ed49e46a0.png)
+- ![image](.attachments/a8573324d9ee90c10ece1d55c6b75bf5915cf4ac.png)
+- ![image](.attachments/2050bea443e7b386627c99a58471a6f1940f632c.png) 
