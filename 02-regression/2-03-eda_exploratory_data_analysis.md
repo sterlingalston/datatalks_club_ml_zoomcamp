@@ -1,0 +1,23 @@
+- ![image](.attachments/5e4b50f54d15a16031e4b1441a0104decfdb7959.png) 
+- ![image](.attachments/2ff471d1441ebc415844411f1f7df7ef9ce37c82.png) 
+- ![image](.attachments/0f57bf085b79cbbf2077331294f6fc7d7333b185.png) 
+- ![image](.attachments/c15defe3519d747c6d1debd7509eb504df32f59e.png) 
+- ![image](.attachments/9f61083f155aae864e97bbd3974bd9bd89dafa04.png) 
+- bins is how many bars actually have
+- ![image](.attachments/384621b1f044f4d24ed84390d97066d2bec9c5b2.png)
+- long-tail distribution
+- ![image](.attachments/2869a0670afb798ecd0822b005cd3f247117283e.png)
+- long-tail very common for prices
+- need to get rid of long tail using logrithm distro
+- ![image](.attachments/01fe8d3832bce81ced533b868dc4942024ba8546.png)
+- ![image](.attachments/83af106c01b1d002494b52abbf7cebb923ede994.png)
+- ![image](.attachments/014a664efe93f17939e65ee80076d8c78c190dc6.png)
+- ![image](.attachments/4163ca121d19dd9099f9e399e90669b4522260e1.png)
+- ![image](.attachments/7fd288be746fcae008931e4824495dd083fba031.png)
+- ![image](.attachments/689e4ba4b929eb180bfe61530f2e994e642d4e95.png)
+- ![image](.attachments/c9ad09373cbbb2adb0d7af4168bca96a75140f8c.png)
+- ![image](.attachments/a40fc6816cf7621d6c25a03fe7ee429ec97bceae.png)
+- some values are missing
+- ![image](.attachments/c446b97b3c6d73465e9e373c63e88d1c07691e88.png)
+- ![image](.attachments/babf3645542151b93dd7042fd224e3ff7129a0b3.png)
+- 
