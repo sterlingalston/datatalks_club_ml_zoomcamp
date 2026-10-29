@@ -1,0 +1,24 @@
+- measure importance of different variables
+- ![image](.attachments/f82fb2f46679fc546e89453a6c06aa7e743eb278.png)
+- ![image](.attachments/ff8c4e6b1e62f9cb832efad331e1efcd771daf40.png)
+- ![image](.attachments/dbae6f44295ea792b6d79f87b00f025ab7b66474.png)
+- how much do we learn about churn if the observe value of contract?
+- ![image](.attachments/074b1cedb1bfc89059bd1036ed08b2b1732bb786.png)
+- ![image](.attachments/fe029eb73b80db1de325142466415ba2603dd53d.png)
+- sklearn
+- ![image](.attachments/e403ecd2202a25e22d331e16952c8842d78b7819.png)
+- ![image](.attachments/63783dd200a8b53c5d5d42349e11f56657faeeea.png) 
+- ![image](.attachments/fa785eb66917e2c79fdf038ab56d91246629db84.png)
+- gender - no relationship with churn
+- contract more important than gender for churn
+- ![image](.attachments/39a996f52ff32ed8fe53b766a99cc82a4d449d00.png)
+- partner more important than gender, but less so for contract
+- hard to interpret, but we can know one is more important than the other
+- ![image](.attachments/6f2826e45c3aae0983067c26ea69d46cb5562551.png)
+- apply takes a function with one argument and applies to each column
+- ![image](.attachments/abeffcb40959dbe5b6d3be45c370f3e5e00eb482.png)
+- ![image](.attachments/8284f8ad052ef762d2abd5666f6700e54cb50e33.png)
+- ![image](.attachments/60d3c2652358413129280deb89a9091071f09c70.png)
+- contract is most important and gender is the least
+- ![image](.attachments/f536d351d5345c7d7213960022bd4ce806a5dcb8.png)
+- 
