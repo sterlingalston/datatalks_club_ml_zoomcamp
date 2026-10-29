@@ -7,4 +7,5 @@
 - for real numbers
 - but for binary variables...
 - ![image](03-classification/.attachments/21fde8511d35f053ce6943bb49bfe3d50ef68d72.png)
-- 
+- ![image](.attachments/83f6512778478f22882f8695ccba1ce9c91f2920.png)
+- ![image](.attachments/99d4ebb083b418d547502c186dc8d9333643574a.png) 
