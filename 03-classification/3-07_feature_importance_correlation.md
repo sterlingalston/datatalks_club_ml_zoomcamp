@@ -1,1 +1,10 @@
-sdaf
+- pearson's correlation
+- ![image](.attachments/3151847cbe2480edd3e4313fd8bb99a7ddbdab5c.png)
+- ![image](.attachments/fe2fd5f8a7398dcb4ab0d1d13ca7acf1987bb9aa.png)
+- ![image](.attachments/10eb6b0dbb7d2adf0c4e7fb13bfbb6cf65c4ff1e.png)
+- measure dependency between two variables
+- ![image](.attachments/888345d596daa7556adf5b650399352c0a126a2b.png)
+- for real numbers
+- but for binary variables...
+- ![image](.attachments/5f7aab5557990c5aabb07425652427f99b155ee9.png)
+- 
