@@ -6,5 +6,5 @@
 - ![image](.attachments/888345d596daa7556adf5b650399352c0a126a2b.png)
 - for real numbers
 - but for binary variables...
-- ![image](.attachments/5f7aab5557990c5aabb07425652427f99b155ee9.png)
+- ![image](03-classification/.attachments/21fde8511d35f053ce6943bb49bfe3d50ef68d72.png)
 - 
