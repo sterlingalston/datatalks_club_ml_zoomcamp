@@ -50,4 +50,6 @@ Attribute access breaks if the column name has spaces or collides with a DataFra
 - ![image](.attachments/fbb3ed76a7b8ade2c3180068f699c58c894bdc4e.png)
 - ![image](.attachments/3bf4599af19a9ebed6c654667cec9811ea1dd5c9.png)
 - ![image](.attachments/7a993eea8dcfda43d354cc0af22bb3272f3e5b1e.png)
+- ![image](.attachments/3e25f4d8dae891b73ec29ddccd21fb43b292f48e.png)
+- still works even if True and False in column
 - 
