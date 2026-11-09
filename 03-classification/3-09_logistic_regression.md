@@ -5,4 +5,6 @@
 - ![image](.attachments/81e7193134c08b67a42d36deb82ffc829e582f39.png)
 - linear regression formula
 - ![image](.attachments/b5f29b734a7b3e91029db9f07c9a8f31e5b857f0.png)
-- 
+- ![image](.attachments/1b9e56d5dbac8402866a53d072b5823c71980035.png)
+- sigmoid
+- ![image](.attachments/9bed3fe087640812986ac0723327ff46ecd1e974.png) 
