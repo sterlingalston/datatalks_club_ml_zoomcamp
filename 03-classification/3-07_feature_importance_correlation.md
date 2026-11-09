@@ -14,4 +14,8 @@
 - high monthly charges, more likely they will leave
 - ![image](.attachments/f916d3daa5c199eda85cf022a9d193f24641cab9.png)
 - ![image](.attachments/ff64e8b29b75bf505d70d5911f708cf16e46feae.png)
-- 
+- ![image](.attachments/e2ce01173ca65d7c6415330ebbd606e140eef1d2.png)
+- churn rate increases with cost of monthly charges
+- ![image](.attachments/0bcdb8c68bb8b4ed490620ee91328a1697d0bbd4.png)
+- ![image](.attachments/9291333db442a8c2ce22cf4b32a9a356aca8520c.png) 
+- if only care about importance and not correlation
