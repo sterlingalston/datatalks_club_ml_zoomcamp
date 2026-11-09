@@ -16,4 +16,12 @@
 - ![image](.attachments/58e8e041074ba9c736283be0fe2af20de145f2b5.png)
 - ![image](.attachments/4718cded1bd12d37e872a161e8991e359f72cce8.png)
 - ![image](.attachments/1b669a9268eb6d9a3a0c3eaf2d4e8fec8e6570b0.png)
+- ![image](.attachments/b192071eda9751ad62d0d9f1c783dbcac4416159.png)
+- 'new numerical variable'
+- ![image](.attachments/79e10b2b13589e2047a5c00648ec288a56f2fb4f.png)
+- ![image](.attachments/2b2f72a2fda8a413fcdef41c0e31181b3e7128c6.png)
+- ![image](.attachments/9e1926a38719714069fa6658463ce9ebf88aae3e.png)
+- ![image](.attachments/7bd032726d4263062a7f170e92f6edbb60e3023c.png)
+- ![image](.attachments/20a1d926b76c182256893f2f05fa9cd2a9cc3326.png)
+- ![image](.attachments/0e2970decaeaacb8d3a81a0a7c9cace567d399ce.png)
 - 
