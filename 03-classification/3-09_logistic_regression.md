@@ -13,4 +13,7 @@
 - ![image](.attachments/a4ba66fc2c834edfeabf23c4aec662f3fd2e76fb.png)
 - ![image](.attachments/268fdfa4d719eca341c4061ceccea57b05202ec5.png)
 - ![image](.attachments/388c1aaa394232f2bb33a436f8170a176623946a.png)
-- ![image](.attachments/b53b7725f193bf2087d7fd30f331696943dcbe0e.png) 
+- ![image](.attachments/b53b7725f193bf2087d7fd30f331696943dcbe0e.png)
+- ![image](.attachments/60da28b24ad511addf29242f4a5ddf0cf114f65f.png)
+- how we take any number we have and convert to between 0 and 1
+- 
