@@ -52,4 +52,4 @@ Attribute access breaks if the column name has spaces or collides with a DataFra
 - ![image](.attachments/7a993eea8dcfda43d354cc0af22bb3272f3e5b1e.png)
 - ![image](.attachments/3e25f4d8dae891b73ec29ddccd21fb43b292f48e.png)
 - still works even if True and False in column
-- 
+- model is 80% correct
