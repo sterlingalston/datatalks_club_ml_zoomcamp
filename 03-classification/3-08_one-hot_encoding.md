@@ -1,0 +1,19 @@
+- categories of gender
+- gender, contract
+- ![image](.attachments/82a63b7c4e6b05292b26af7216d340baec77d455.png)
+- ![image](.attachments/0790988862f9118983debd23a9e50d9e8a4e2115.png)
+- hot means value that is activated, '1' means 'hot' -- it is activated, otherwise it is 0
+- this is one-hot encoding
+- use scikit learn for this
+- ![image](.attachments/0f0dfc7f304b9f37ecd9b1857302d361ef354e73.png)
+- ![image](.attachments/4c1cd32f392756d1709142d67010f9fe5ac01c7e.png)
+- ![image](.attachments/69959d26909c8a81e702beac0e3361029f9eeb1c.png)
+- taking dictionary and turning into vector
+- ![image](.attachments/60a23a78b75737e346bece2d9edda879577c4e52.png)
+- ![image](.attachments/126baf0128a5895dcefefa4ba3458d49e0e82c84.png)
+- ![image](.attachments/fb8f08773b63e4ea6d8fd8de97063ee7004224b2.png)
+- ![image](.attachments/a059746ca62c8dde9e7e432bc9a00e5152131fff.png)
+- ![image](.attachments/58e8e041074ba9c736283be0fe2af20de145f2b5.png)
+- ![image](.attachments/4718cded1bd12d37e872a161e8991e359f72cce8.png)
+- ![image](.attachments/1b669a9268eb6d9a3a0c3eaf2d4e8fec8e6570b0.png)
+- 
