@@ -3,4 +3,6 @@
 ![image](.attachments/de7d10780e2245681df6ef7eeaa9c8c67fd46e51.png) 
 ![image](.attachments/be7635a26423fb83c0166781580301f05756f353.png) 
 - from this we can train a smaller model
+- smaller model to train
+- ![image](.attachments/7f95c1b2c3d6fb98b1f6e5d7cd0fc6060066144b.png)
 - 
