@@ -19,4 +19,5 @@
 - ![image](.attachments/0e5f0542117aeca50b6d08baf554ce2e62d0b5f4.png)
 - sigmoid converts number into probability
 - ![image](.attachments/9913cefec1995e9168d48e5fc64071408672b303.png)
-- 
+- ![image](.attachments/f12fff530a1e668002685f8f767724298f81d38e.png)
+  
