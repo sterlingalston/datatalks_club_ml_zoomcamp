@@ -11,4 +11,7 @@
 - ![image](.attachments/99d4ebb083b418d547502c186dc8d9333643574a.png)
 - longer customer stays, the less they will churn
 - ![image](.attachments/0e9435cb83ddfc1d8b95cac157d5af625f38bdfc.png)
+- high monthly charges, more likely they will leave
+- ![image](.attachments/f916d3daa5c199eda85cf022a9d193f24641cab9.png)
+- ![image](.attachments/ff64e8b29b75bf505d70d5911f708cf16e46feae.png)
 - 
