@@ -8,4 +8,7 @@
 - but for binary variables...
 - ![image](.attachments/2d82ff7726f5b79ad8eb73288f9dbc2a4cb9268e.png)
 - ![image](.attachments/83f6512778478f22882f8695ccba1ce9c91f2920.png)
-- ![image](.attachments/99d4ebb083b418d547502c186dc8d9333643574a.png) 
+- ![image](.attachments/99d4ebb083b418d547502c186dc8d9333643574a.png)
+- longer customer stays, the less they will churn
+- ![image](.attachments/0e9435cb83ddfc1d8b95cac157d5af625f38bdfc.png)
+- 
