@@ -16,4 +16,7 @@
 - ![image](.attachments/b53b7725f193bf2087d7fd30f331696943dcbe0e.png)
 - ![image](.attachments/60da28b24ad511addf29242f4a5ddf0cf114f65f.png)
 - how we take any number we have and convert to between 0 and 1
+- ![image](.attachments/0e5f0542117aeca50b6d08baf554ce2e62d0b5f4.png)
+- sigmoid converts number into probability
+- ![image](.attachments/9913cefec1995e9168d48e5fc64071408672b303.png)
 - 
