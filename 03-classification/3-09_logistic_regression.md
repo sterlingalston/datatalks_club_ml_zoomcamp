@@ -7,4 +7,10 @@
 - ![image](.attachments/b5f29b734a7b3e91029db9f07c9a8f31e5b857f0.png)
 - ![image](.attachments/1b9e56d5dbac8402866a53d072b5823c71980035.png)
 - sigmoid
-- ![image](.attachments/9bed3fe087640812986ac0723327ff46ecd1e974.png) 
+- ![image](.attachments/9bed3fe087640812986ac0723327ff46ecd1e974.png)
+- ![image](.attachments/596a03419f288cd0f731f9f6044a51944ad777f9.png)
+- ![image](.attachments/f47ce9e6618b2ea383204af5fb79efa747ae68fd.png)
+- ![image](.attachments/a4ba66fc2c834edfeabf23c4aec662f3fd2e76fb.png)
+- ![image](.attachments/268fdfa4d719eca341c4061ceccea57b05202ec5.png)
+- ![image](.attachments/388c1aaa394232f2bb33a436f8170a176623946a.png)
+- ![image](.attachments/b53b7725f193bf2087d7fd30f331696943dcbe0e.png) 
