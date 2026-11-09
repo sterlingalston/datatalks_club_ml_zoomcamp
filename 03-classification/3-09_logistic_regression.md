@@ -1,3 +1,8 @@
 - ![image](.attachments/1528449c7f642426a13c8cdca6f5cfc9216d020b.png)
 - ![image](.attachments/f09b3141529d7867643952e58cfb29ce135e42ad.png)
+- examples:
+- ![image](.attachments/de4ebb40b91b90853e28127109dd3eaf231dea2c.png)
+- ![image](.attachments/81e7193134c08b67a42d36deb82ffc829e582f39.png)
+- linear regression formula
+- ![image](.attachments/b5f29b734a7b3e91029db9f07c9a8f31e5b857f0.png)
 - 
