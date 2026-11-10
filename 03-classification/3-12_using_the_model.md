@@ -1,0 +1,24 @@
+- trained 2 models (model with all features and model with a limited number of features)
+- ![image](.attachments/580faafa942087c3ce8bb1761186d00ac40339f5.png)
+- ![image](.attachments/8eb43a96758aec59d8f84068008a6c7ee508b4dc.png)
+- ![image](.attachments/2cda712f094f41d98983898b135ad3c29f850089.png)
+- ![image](.attachments/df9a5ec2762c3462d31c73c820f35baebd2951fe.png)
+- now we have model
+- ![image](.attachments/f019938e9f2d404af835c0d3b2ea5a8e5fb8df17.png)
+- ![image](.attachments/ac951c34909b51f705febdd354d39fa646cc9606.png)
+- ![image](.attachments/424390bd6d4f0b8fe3476d954f46efba2572d633.png)
+- ![image](.attachments/8ff3ae2c33f460bfe8de6550cbf2a62c68936820.png)
+- taking customer from dataset
+- ![image](.attachments/815a23de8c51731b80218316f41565f9dffae855.png)
+- ![image](.attachments/69eaf80ad2ce3ec4b40abb60aec40a73c0b390ba.png)
+- customer is already a dictionary
+- ![image](.attachments/83bd73efced4e59c13a1611476bc856bf6ce3be5.png)
+- ![image](.attachments/621f3b240cbc2c5ea3983cf282007237cf1a3589.png)
+- ![image](.attachments/823ba645fe053999e7b22e466418e967f7c0b76b.png)
+- ![image](.attachments/dbd9186b0a2e10639ebf84bebb462365b8ad01c9.png)
+- customer has 40% probability of churning
+- ![image](.attachments/6f96d0f10785a05aa4fe267218c9553fc1711a42.png)
+- in this case for the last customer, we think she will churn
+- ![image](.attachments/2f4c21872cb497500edf7c825bff6c31823eecce.png)
+- ![image](.attachments/7c24e230879495ef94a8219e757c92431d89c873.png)
+- 
