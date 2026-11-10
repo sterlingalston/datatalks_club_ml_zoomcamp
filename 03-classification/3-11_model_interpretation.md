@@ -16,4 +16,16 @@
 - ![image](.attachments/bec1b80e2cf025c3126756799dd68b1d04771030.png)
 - example customer
   - ![image](.attachments/23b64374bd968542f0a9fe5288a839abb2442ff5.png)
-- 
+- ![image](.attachments/7da679ce3dc79ea8481a0ff0470002231459dd22.png)
+- what we know about customer without assuming anything about them
+- when customer has monthly churning increases
+- ![image](.attachments/6b327e3a6debc7b362b93fc054085fcd290e6d40.png)
+- ![image](.attachments/7ca465af2b4971db54a2aae7d7d662791851b69f.png)
+- ![image](.attachments/c0bcb65e526ea9c4734af068cd3bb074e785b781.png)
+- ![image](.attachments/959c34bc113b0717825e12b86033d836279539c2.png)
+- underscore means take output of previous cell and use as parameter
+- anything positive means customer will churn
+- ![image](.attachments/8c8fb792b7bb5c32eb099b76be89cffe624a1447.png)
+- ![image](.attachments/f9770ec68a6de0e8dd99cc5d753bda611386ac93.png)
+- ![image](.attachments/33b775f7a27bb07325cc4529a28fe6ebdadc8a73.png)
+- monthly tends to churn more than yearly
