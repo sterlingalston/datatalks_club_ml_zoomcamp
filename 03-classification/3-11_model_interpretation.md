@@ -5,4 +5,10 @@
 - from this we can train a smaller model
 - smaller model to train
 - ![image](.attachments/7f95c1b2c3d6fb98b1f6e5d7cd0fc6060066144b.png)
-- 
+- ![image](.attachments/7f65d9fd6d1263214951414b8cbd06c26511b824.png)
+- ![image](.attachments/763e6283865e44214c773ea225e10bac1db8891e.png)
+- ![image](.attachments/d52be38753e65abf1c816ff86781e084564f8741.png)
+- ![image](.attachments/c7bc7f0e5c9da444467cf887f2c92c6ad635e27d.png)
+- ![image](.attachments/a5f80dbf2f607707e312e34771f6233f1011e172.png)
+- ![image](.attachments/acbcb6e471387d0de8c2849c190ee7ce35526caa.png)
+- ![image](.attachments/30cc92e17ca2e28e264fd892f36681d3cd286c87.png) 
