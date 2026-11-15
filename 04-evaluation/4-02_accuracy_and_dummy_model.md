@@ -17,4 +17,20 @@
 - ![image](.attachments/cadb6d88f9a7ae3679b224d8bd229b989f977a4c.png)
 - ![image](.attachments/a626038ce8b513a6b94a4eb2f41f8d003425e31e.png)
 - ![image](.attachments/64c8d3805907c66182c79c847fff4c1fb5545701.png)
-- ![image](.attachments/cd54c29f779ae79d2f537366e0101a4f4215a6c1.png) 
+- ![image](.attachments/cd54c29f779ae79d2f537366e0101a4f4215a6c1.png)
+- ![image](.attachments/31e84fed4d3d6fc845a934f2606fabd13052792f.png)
+- ![image](.attachments/8bec27fed17e386ca6fce3c0ce9c8e274716e9cc.png)
+- turns out 0.5 is good threshold
+- accuracy_score()
+- ![image](.attachments/b8bd16ff2104f1cc68c0ee824a03a39a55959087.png)
+- ![image](.attachments/f826193ee6999b7b4476a32ac60fa8034cee3692.png)
+- ![image](.attachments/c04ea25bd2c7804130d178e02e0caa857bdcc17e.png)
+- ![image](.attachments/e7f25909945b9443785b91bf6ff17cafa9ae6ffe.png)
+- ![image](.attachments/8b30d1a0412da11fe94bfa462ed61c765b3f55a3.png)
+- counter counted only false values
+- ![image](.attachments/4510b4fe1ec5f1f5a87d89bc9fe646077cbe0336.png)
+- ![image](.attachments/5c1d97b977d41aa6924a0ac08223d20c5c92d038.png)
+- ![image](.attachments/8eefde0e137f9698d566d0f9323541f4207ca98d.png)
+- incorrect only for the cases where customers are churning
+- ![image](.attachments/1fe41b53b450f8d48a6760a8fb650961279c3a5d.png)
+- 
