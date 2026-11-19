@@ -17,4 +17,12 @@
 - ![image](.attachments/13ccb454322ddc7bd827119c621bb12b95e9ec0e.png)
 - ![image](.attachments/6de0d7253e93ab4cea744e24e4298c7a54c859af.png)
 - ![image](.attachments/70005c56f01e6f7a4ff0ab6e243a5201d5637b91.png)
-- ![image](.attachments/22cc4a01b63858663b2c72b8d376cfdf02040020.png) 
+- ![image](.attachments/22cc4a01b63858663b2c72b8d376cfdf02040020.png)
+- confusion matrix
+- ![image](.attachments/968484e204203aeb7c273225cd0e46fe5d05c860.png)
+- ![image](.attachments/35b0b9eed206f1877c90b10c7045ecfe8a6d2ed9.png)
+- false positives and negatives are monetary loss
+  - false positives more difficult to catch
+- ![image](.attachments/6415887d4fa9f6873c10f3cf530548c966496fdc.png)
+- ![image](.attachments/d30abc890721b233c912f16e40007c47e8d03990.png)
+- ![image](.attachments/b9cb2b4ec073261e3f2ce35cbe196f6327af8335.png) 
